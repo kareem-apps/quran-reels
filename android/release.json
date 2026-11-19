@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "applicationId": "app.quranreels.android",
-  "versionCode": 4,
-  "versionName": "2026.11.19.3",
-  "apkUrl": "https://kareem-apps.github.io/quran-reels/download/QuranReels-Android-v4.apk",
-  "bytes": 21723744,
-  "sha256": "95feb77b20f1f3f3d0c7330f195245d5f4abaf6eda6de090805edbbf542d9741",
+  "versionCode": 5,
+  "versionName": "2026.11.19.4",
+  "apkUrl": "https://kareem-apps.github.io/quran-reels/download/QuranReels-Android-v5.apk",
+  "bytes": 21723448,
+  "sha256": "2c120e886fb51a249774347d5e27908c38abef3c296a3a153389d98e49879851",
   "signerSha256": "bd2b8273b9d42cf56dea8d406b21f5373f2a9f4d92f01cdf2e5f7c3154ba926e",
   "changes": {
     "ar": [
-      "يظهر إشعار التحديث تلقائيًا عند توفر إصدار جديد، حتى مع وجود تصدير جارٍ أو محفوظ. يظل التثبيت معطّلًا حتى يصبح آمنًا."
+      "يبدأ تنزيل التحديث تلقائيًا بعد إيقاف التصدير الجاري وحفظ تقدّمه. يطلب أندرويد تأكيد التثبيت."
     ],
     "en": [
-      "The update notice appears automatically when a new version is available, even during an active or retained export. Installation waits until it is safe."
+      "A new update downloads first after pausing active export safely. Android asks you to confirm installation."
     ]
   }
 }
