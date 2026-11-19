@@ -1,20 +1,24 @@
 {
   "schema": 1,
   "applicationId": "app.quranreels.android",
-  "versionCode": 2,
-  "versionName": "2026.11.19.1",
-  "apkUrl": "https://kareem-apps.github.io/quran-reels/download/QuranReels-Android-v2.apk",
-  "bytes": 21712788,
-  "sha256": "ffc257668fbcaed820535d8cb57806d6a31a22fa650ac978fcd6b7cf78a39b16",
+  "versionCode": 3,
+  "versionName": "2026.11.19.2",
+  "apkUrl": "https://kareem-apps.github.io/quran-reels/download/QuranReels-Android-v3.apk",
+  "bytes": 21723464,
+  "sha256": "8e49756aba7b6009845019606231b8d64796f6b6f623712fa9f8ccbb2caa558e",
   "signerSha256": "bd2b8273b9d42cf56dea8d406b21f5373f2a9f4d92f01cdf2e5f7c3154ba926e",
   "changes": {
     "ar": [
-      "صفحة تنزيل جديدة، والتحديثات تصل منها داخل التطبيق.",
-      "تُثبَّت التحديثات فوق التطبيق دون حذف بياناته."
+      "يفتح اختيار الفيديو من الجهاز منتقي الوسائط في أندرويد، مع دعم اختيار الملفات عند الحاجة.",
+      "تحكم في كتم صوت كل فيديو مضاف ومستواه في المعاينة والتصدير.",
+      "تظهر افتتاحية الصدقة وغصن الزيتون عند فتح التطبيق.",
+      "تحمل أيقونة التطبيق القوس الذهبي المغلق والخطوط الثلاثة."
     ],
     "en": [
-      "New download page; updates now arrive from it inside the app.",
-      "Signed updates install over the existing app and keep its data."
+      "Choose local videos through Android's media picker, with a file picker fallback.",
+      "Mute or adjust the audio of each imported video in preview and export.",
+      "The charity dedication and olive sprig appear when the app opens.",
+      "The launcher icon uses a closed gold arch and three lines."
     ]
   }
 }
